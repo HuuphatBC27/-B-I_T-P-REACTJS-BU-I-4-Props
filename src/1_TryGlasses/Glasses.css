@@ -1,0 +1,42 @@
+.glasses-Wrapper {
+  min-height: 100vh;
+
+  background-image: url("/img/glassesImage/background.jpg");
+
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  filter: brightness(70%);
+}
+.glasses img {
+  position: absolute;
+  top: 150px;
+  right: 576px;
+}
+.glasses img {
+  width: 250px;
+}
+.text h1 {
+  color: red;
+  position: relative;
+}
+.text h2 {
+  color: blue;
+  font-size: 20px;
+}
+.img2 {
+  position: relative;
+}
+.text {
+  position: absolute;
+  bottom: 0;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.row {
+  margin: 0;
+  padding: 0;
+}
